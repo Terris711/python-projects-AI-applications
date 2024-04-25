@@ -4,6 +4,7 @@ This course is integrated with GitHub Codespaces, an instant cloud developer env
 
 Instructions All of the course files are stored in the main branch. There are 2 folders in the main branch called "Begin" and "Finish". The Start folder contains semi-completed code files you can start working on while watching the course. The Finish folder contains completed code files. The naming convention is CHAPTER_#_ProjectName. As an example, the first project is labeled "CH_1_NLP_ChatBot".
 Happy Coding!
+
 Instructor 
 
 Priya
